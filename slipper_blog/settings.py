@@ -25,7 +25,7 @@ SECRET_KEY = 'u-3bp65ubfj=ya0llt$^o8zza02j663qrxuq#f0bj_jti1(z8@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'www.slipperpeng.site']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.slipperpeng.site']
 
 
 # Application definition
